@@ -21,7 +21,7 @@ public class RecordDao {
 
 
     public List<Record> findAllRecords(){
-        return records;
+        return new ArrayList<>(records);
     }
 
 
