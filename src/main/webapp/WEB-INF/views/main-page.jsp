@@ -13,7 +13,7 @@
                 <h2>ToDo List</h2>
             </div>
             <div class="header__statistics">
-                <span>${numberOfActiveRecords} more to do, ${numberOfDoneRecords} done</span>
+                <span>${numOfActiveRec} more to do, ${numOfDoneRec} done</span>
             </div>
         </div>
         <div class="filter-container">
